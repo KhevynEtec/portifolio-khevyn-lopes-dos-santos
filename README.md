@@ -33,9 +33,9 @@ Atualmente cursando o 1° período de Ciência da Computação na Universidade C
 ### 📂 Portfólio de Projetos
  
 #### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
+| Conectando Vidas | Frontend do site de adoção de animais | (https://github.com/lopes7890/conectando-vidas-frontend) |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Sistema de Gestão de Adoção** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./conectando-vidas-frontend) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
