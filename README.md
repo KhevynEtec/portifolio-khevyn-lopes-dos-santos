@@ -35,7 +35,7 @@ Atualmente cursando o 1° período de Ciência da Computação na Universidade C
 #### 🗃️ Modelagem de Banco de Dados
 | Conectando Vidas | Frontend do site de adoção de animais | (https://github.com/lopes7890/conectando-vidas-frontend) |
 | :--- | :--- | :---: |
-| **Sistema de Gestão de Adoção** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](.lopes7890/conectando-vidas-frontend) |
+| **Sistema de Gestão de Adoção** | Orientação e adoção de animais. | [Ver Projeto](./lopes7890/conectando-vidas-frontend/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
