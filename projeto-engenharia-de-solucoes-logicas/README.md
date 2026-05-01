@@ -5,7 +5,7 @@
 
 [cite_start]Desenvolvido como parte do meu portfólio técnico, o sistema processa variáveis específicas para direcionar o fluxo de atendimento ou processamento de dados[cite: 5, 22]. [cite_start]A lógica abrange desde a validação inicial do dado até a finalização do processo (FIM), garantindo que cada etapa siga critérios rigorosos de decisão[cite: 3, 17].
 
-![Fluxograma do Sistema](./projeto-engenharia-de-solucoes-logicas/Fluxograma.pdf)
+![Fluxograma do Sistema](./portifolio-khevyn-lopes-dos-santos/projeto-engenharia-de-solucoes-logicas/Fluxograma.pdf)
 *Figura 1: Representação visual da lógica de decisão e caminhos do sistema.*
 
 ## 🚀 Tecnologias e Conceitos Utilizados
