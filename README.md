@@ -42,36 +42,10 @@ Atualmente cursando o 1° período de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
- 
- #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Engenharia de Soluções Lógicas** | Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.| [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
 
-#### 🗃️ Programação de Computadores
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
-
-#### 🗃️ Programação de Computadores
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
-
-#### 🗃️ Programação de Computadores
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
-
-#### 🗃️ Programação de Computadores
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
-
-#### 🗃️ Programação de Computadores
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
 ---
  
 ### 🏗 Estrutura do Repositório
