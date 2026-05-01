@@ -3,7 +3,7 @@
 ## 📝 Descrição do Projeto
 Este repositório contém o desenvolvimento de dois sistemas inteligentes que exploram a tradução de ambientes físicos em lógica computacional. O projeto é dividido em dois eixos principais:
 
-1.  **Monitoramento de Microclima Local:** Um algoritmo que processa dados reais coletados em pontos estratégicos de São Paulo (Parque Linear, Av. Mateo Bei e UNICID)[cite: 3]. O sistema utiliza estruturas aninhadas e `match-case` para classificar o Índice de Qualidade do Ar (IQA) e calcular um índice de "conforto térmico" baseado em temperatura, umidade e poluição[cite: 3].
+1.  **Monitoramento de Microclima Local:** Um algoritmo que processa dados reais coletados em pontos estratégicos de São Paulo [cite: 3]. O sistema utiliza estruturas aninhadas e `match-case` para classificar o Índice de Qualidade do Ar (IQA) e calcular um índice de "conforto térmico" baseado em temperatura, umidade e poluição[cite: 3].
 2.  **Simulador de Evacuação Espacial:** Um motor de lógica que mapeia obstáculos físicos de um trajeto real e os converte em nós de um sistema de navegação[cite: 3]. O simulador gerencia variáveis como energia do usuário, estados de portas e posse de itens (chaves) para determinar o sucesso de uma saída segura[cite: 3].
 
 ## 🚀 Tecnologias Utilizadas
