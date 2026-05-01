@@ -47,7 +47,7 @@ Atualmente cursando o 1° período de Ciência da Computação na Universidade C
 | **Engenharia de Soluções Lógicas** | Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.| [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) 
+| **Sistema de Caixa e Troco Inteligente** | Um programa para utomatizar o processo de conferência de pagamentos e a devolução otimizada de valores ao cliente, garantindo que o troco seja entregue com o menor número possível de cédulas.| [Ver Projeto](./projeto-sistema-de-caixa-e-troco-inteligente/) 
 
 ---
  
