@@ -51,6 +51,9 @@ Atualmente cursando o 1° período de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmos de Lógica e Processamento de Dados** | Atividade de funções implementadas que resolvem problemas práticos de diferentes domínios.| [Ver Projeto](./projeto-traduzindo-logica-para-python/) 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Engenharia de Contexto e Lógica Física** | Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.| [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) 
 
 ---
  
