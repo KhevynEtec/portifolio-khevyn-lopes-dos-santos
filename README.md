@@ -1,5 +1,5 @@
 # Khevyn Lopes dos Santos
-> Estudante de Ciência da Computação da Universidade Cidade de São Paulo (UNICICD)
+> Estudante de Ciência da Computação da Universidade Cidade de São Paulo (UNICID)
  
 ---
  
