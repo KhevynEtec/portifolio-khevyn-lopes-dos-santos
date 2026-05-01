@@ -5,8 +5,8 @@
 
 [cite_start]Desenvolvido como parte do meu portfólio técnico, o sistema processa variáveis específicas para direcionar o fluxo de atendimento ou processamento de dados[cite: 5, 22]. [cite_start]A lógica abrange desde a validação inicial do dado até a finalização do processo (FIM), garantindo que cada etapa siga critérios rigorosos de decisão[cite: 3, 17].
 
-![Fluxograma do Sistema](./portifolio-khevyn-lopes-dos-santos/projeto-engenharia-de-solucoes-logicas/Fluxograma.pdf)
-*Figura 1: Representação visual da lógica de decisão e caminhos do sistema.*
+![Fluxograma do Sistema]
+*Figura 1: Representação visual da lógica de decisão e caminhos do sistema dentro da pasta em arquivo pdf*
 
 ## 🚀 Tecnologias e Conceitos Utilizados
 * [cite_start]**Modelagem de Processos:** Estruturação de fluxogramas para visualização de decisões lógicas[cite: 1, 4].
@@ -22,8 +22,8 @@ O projeto demonstra a eficácia na organização de fluxos complexos, tratando d
 * [cite_start]**Segmentação de Dados:** Utilização de critérios como idade (ex: `Idade 65`) para ramificação do atendimento[cite: 23].
 * [cite_start]**Estrutura de Repetição:** Presença de comandos de controle como `WH` (While) e encerramento de processos[cite: 17, 24].
 
-![Representação do Pipeline](./projeto-engenharia-de-solucoes-logicas/Pseudocodigo.pdf)
-*Figura 2: Representação visual do pipeline de dados e pontos de decisão.*
+![Representação do Pipeline]
+*Figura 2: Representação visual do pipeline de dados e pontos de decisão dentro da pasta em arquivo pdf*
 
 ## 🔧 Como Executar
 1. [cite_start]Analise o arquivo `Fluxograma.pdf` para visualizar o mapeamento completo dos caminhos lógicos[cite: 1].
