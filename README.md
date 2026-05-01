@@ -50,7 +50,7 @@ Atualmente cursando o 1° período de Ciência da Computação na Universidade C
 | **Sistema de Caixa e Troco Inteligente** | Um programa para utomatizar o processo de conferência de pagamentos e a devolução otimizada de valores ao cliente, garantindo que o troco seja entregue com o menor número possível de cédulas.| [Ver Projeto](./projeto-sistema-de-caixa-e-troco-inteligente/) 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritmos de Lógica e Processamento de Dados** | Atividade de funções implementadas que resolvem problemas práticos de diferentes domínios.| [Ver Projeto](./projeto-algoritmo-de-logica-e-processamento-de-dados/) 
+| **Algoritmos de Lógica e Processamento de Dados** | Atividade de funções implementadas que resolvem problemas práticos de diferentes domínios.| [Ver Projeto](./projeto-traduzindo-logica-para-python/) 
 
 ---
  
