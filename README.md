@@ -36,12 +36,12 @@ Atualmente cursando o 1° período de Ciência da Computação na Universidade C
  
 ---
  
-### 📂 Portfólio de Projetos
+### 📂 Portifólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Conectando Vidas | Frontend do site de adoção de animais | (https://github.com/lopes7890/conectando-vidas-frontend) |
+#### 🗃️ Programação de Computadores
+| Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão de Adoção** | Orientação e adoção de animais. | [Ver Projeto](./lopes7890/conectando-vidas-frontend/) |
+| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
  
  
 ---
