@@ -24,4 +24,4 @@ A conversão dos algoritmos permitiu consolidar conhecimentos fundamentais sobre
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/KhevynEtec/atividade-logica-python.git](https://github.com/KhevynEtec/atividade-logica-python.git)
+   git clone [https://github.com/KhevynEtec/traduzindo-logica-para-python.git](https://github.com/KhevynEtec/atividade-logica-python.git)
